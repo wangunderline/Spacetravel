@@ -1,0 +1,64 @@
+[
+    {
+    "id": 1,
+    "nome": "2001: A Space Odyssey Poster",
+    "valor": 45.00,
+    "imagem": "https://m.media-amazon.com/images/I/61VMT6lqBDL.jpg"
+},
+
+{
+    "id": 2,
+    "nome": "Traje original de Neil Armstrong",
+    "valor": 650000,
+    "imagem": "https://th-thumbnailer.cdn-si-edu.com/H1vPFHHVZsdgmMjMXBnSobmlxOo=/800x800/filters:focal(493x290:494x291)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/8e/5a/8e5afe8b-cd93-4bff-8450-fe3e31d36e79/a19730040000-nasm2018-02096.jpeg" 
+},
+
+{
+    "id": 3,
+    "nome": "Foguete Apollo 11",
+    "valor": 2500000,
+    "imagem": "https://scx2.b-cdn.net/gfx/news/2019/thelaunching.jpg" 
+},
+
+{
+    "id": 4,
+    "nome": "Monolito do filme 2001",
+    "valor": 7500,
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/ENS_2001_Monolith_below.jpg" 
+},
+
+{
+    "id": 5,
+    "nome": "Capacete",
+    "valor": 1700,
+    "imagem": "https://t3.ftcdn.net/jpg/05/70/93/48/360_F_570934855_b1lYjx4q2UvRQuWtKLB76ZFUksJXD59R.jpg" 
+},
+
+{
+    "id": 6,
+    "nome": "Assistente I.A",
+    "valor": 22000,
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/HAL9000.svg/800px-HAL9000.svg.png" 
+},
+
+{
+    "id": 7,
+    "nome": "Grip shoes",
+    "valor": 3500,
+    "imagem": "https://i.redd.it/n1wwji5hkc241.jpg" 
+},
+
+{
+    "id": 8,
+    "nome": "Sonda",
+    "valor": 10000,
+    "imagem": "https://cdn.mos.cms.futurecdn.net/EWdaCgmfVF6vSNGYMvHLxa-1200-80.jpg" 
+},
+
+{
+    "id": 9,
+    "nome": "Ônibus espacial",
+    "valor": 2000000,
+    "imagem": "https://hips.hearstapps.com/pop.h-cdn.co/assets/17/06/1024x680/gallery-1486586637-gettyimages-118895527.jpg?resize=640:*"
+}
+]
